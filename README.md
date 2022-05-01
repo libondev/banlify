@@ -13,11 +13,11 @@ A coder who is passionate about web technologies and open source.
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [纯 CSS 图标](http://inreasons.cn/posts/pure-css-icon)
 - [text-overflow: ellipsis](http://inreasons.cn/posts/text-overflow-ellipsis)
 - [js use strict](http://inreasons.cn/posts/use-strict)
 - [框架设计的核心要素](http://inreasons.cn/posts/vue-design-and-realize_2)
 - [权衡的艺术](http://inreasons.cn/posts/vue-design-and-realize_1)
-- [classnames](http://inreasons.cn/posts/classnames)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
