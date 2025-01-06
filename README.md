@@ -8,7 +8,7 @@ A coder who is passionate about web technologies and open source.
 - 🌱 I’m currently learning JavaScript and Typescript.
 
 ### Where to find me:
- - [My Blog](https://inreasons.cn)
- - [E-Mail](mailto:banlify@163.com)
+ - [My Blog](https://www.libondev.cn)
+ - [E-Mail](mailto:bon.li@outlook.com)
 
 Thank you.
